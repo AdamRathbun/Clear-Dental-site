@@ -283,7 +283,9 @@ input, select, textarea {
 	.align-right {
 		text-align: right;
 	}
-
+.callSpace {
+	word-spacing: 5px;
+}
 /* Row */
 
 	.row {

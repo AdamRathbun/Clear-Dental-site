@@ -5,7 +5,9 @@
 */
 
 /* Banner */
-
+.callSpace {
+	word-spacing: 5px;
+}
 	body.is-preload #banner h2 {
 		-moz-transform: none;
 		-webkit-transform: none;
